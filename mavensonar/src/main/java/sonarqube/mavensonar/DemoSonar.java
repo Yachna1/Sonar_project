@@ -13,6 +13,7 @@ public class DemoSonar{
 	}
 	public static String stop() {
 		System.out.println("stop");
+		System.out.println("new line");
 		return "stop";
 	}
 
